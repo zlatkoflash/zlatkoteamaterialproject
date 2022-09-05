@@ -1,27 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.f6d3c971.css",
-    "main.js": "/static/js/main.d8d4094c.js",
+    "main.js": "/static/js/main.f5f0e667.js",
     "static/media/pattern-tree.svg": "/static/media/pattern-tree.156bb943ac7fd244f10c115d085e085e.svg",
     "static/media/home-decor-1.jpg": "/static/media/home-decor-1.05e218fd495ccc65c99d.jpg",
+    "static/media/podcast.jpeg": "/static/media/podcast.50268023ab20aa919a36.jpeg",
     "static/media/product-1-min.jpg": "/static/media/product-1-min.a4c2bc133076d3b7c517.jpg",
     "static/media/bg-player.jpeg": "/static/media/bg-player.ab6b2e90967cfe575cba.jpeg",
     "static/media/product-2-min.jpg": "/static/media/product-2-min.0ef21c3599693a69cd7e.jpg",
+    "static/media/elpa-logo01.png": "/static/media/elpa-logo01.4a71c7eccddb51431b7b.png",
     "static/media/product-3-min.jpg": "/static/media/product-3-min.c4eb341f49bb541a8a8e.jpg",
     "static/media/mastercard.png": "/static/media/mastercard.27fca3e7637a9458fb64.png",
     "static/media/team-1.jpg": "/static/media/team-1.0fd36e0ee93dcfacdef8.jpg",
-    "static/media/team-5.jpg": "/static/media/team-5.d59ab7b9f95f1169cf83.jpg",
     "static/media/team-2.jpg": "/static/media/team-2.13ae2ce3e12f4cfed420.jpg",
     "static/media/team-3.jpg": "/static/media/team-3.0ef0be95e6850814c79e.jpg",
     "static/media/team-4.jpg": "/static/media/team-4.85c82b6e60178804017f.jpg",
+    "static/media/folder.png": "/static/media/folder.7bb1e21e404d6b3f97cb.png",
     "static/media/notebook-write.svg": "/static/media/notebook-write.ae70fea41e605bcfeab7377bf852092c.svg",
     "static/media/list-edit.svg": "/static/media/list-edit.159877c2637903b59053ea015d8328d5.svg",
     "index.html": "/index.html",
     "main.f6d3c971.css.map": "/static/css/main.f6d3c971.css.map",
-    "main.d8d4094c.js.map": "/static/js/main.d8d4094c.js.map"
+    "main.f5f0e667.js.map": "/static/js/main.f5f0e667.js.map"
   },
   "entrypoints": [
     "static/css/main.f6d3c971.css",
-    "static/js/main.d8d4094c.js"
+    "static/js/main.f5f0e667.js"
   ]
 }
